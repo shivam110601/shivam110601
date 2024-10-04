@@ -2,7 +2,7 @@
 
 <!--🔹 **Python Developer | AI/DL Enthusiast | LLM Specialist**-->
 
-Welcome here! I'm a recent graduate and passionate developer specializing in **Python**, **Large Language Models (LLMs)**, and **Artificial Intelligence**. I'm actively seeking opportunities where I can contribute my skills and grow as a professional in the field of AI and Machine Learning.
+Welcome here! I'm a recent graduate and passionate developer specializing in **Python**, **Large Language Models (LLMs)**, and **Deep Learning**. I'm actively seeking opportunities where I can contribute my skills and grow as a professional in the field of AI and Machine Learning.
 
 ## 🚀 About Me
 - 🎓 **Education:** B.Tech. in ECE, NIT Silchar.
